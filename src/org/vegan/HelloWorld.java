@@ -5,6 +5,7 @@ package org.vegan;
 
 /**
  * @author egan
+ * Class is designed to test github submission.
  *
  */
 public class HelloWorld {
